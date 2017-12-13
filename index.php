@@ -118,7 +118,6 @@ if($method == 'POST'){
 			$speech = "Looking for the G Manager backpack, click on this link, https://gmanagerbackpack.com/";
 			break;		
 
-
 		default:
 			$speech = "Sorry, I didnt get that. Are you looking for a specific event like Premiere, Garage Band, G Manager, Storytelling, or an Offsite?";
 			break;
