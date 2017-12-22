@@ -102,21 +102,21 @@ if($method == 'POST'){
 			$speech = "To assign exsiting learning material to one of your team members in G Learning, simply click on the My Crew section of G Learning and go from there!";
 			break;
 
-		case 'Shutterbug';
-			$speech = "Looking to enroll in Shutterbug? Look no further! Click on this link, https://gadventures--lmsilt.na79.visual.force.com/apex/lmsilt__eui_lodetails?objectId=a6e14000000GpRpAAK&tabName=catalog&parentObjectId=a6e14000000GpRpAAK&parentObjectName=COURSE:%20Shutterbug";
-			break;
+		//case 'Shutterbug';
+		//	$speech = "Looking to enroll in Shutterbug? Look no further! Click on this link, https://gadventures--lmsilt.na79.visual.force.com/apex/lmsilt__eui_lodetails?objectId=a6e14000000GpRpAAK&tabName=catalog&parentObjectId=a6e14000000GpRpAAK&parentObjectName=COURSE:%20Shutterbug";
+		//	break;
 
-		case 'Product Padawan';
-			$speech = "Looking to enroll in Product Padawan? Click on this link, https://gadventures--lmsilt.na79.visual.force.com/apex/lmsilt__eui_lodetails?objectId=a6e14000000WiAyAAK&tabName=catalog&parentObjectId=a6e14000000WiAyAAK&parentObjectName=COURSE:%20Product+Padawan";
-			break;
+		//case 'Product Padawan';
+		//	$speech = "Looking to enroll in Product Padawan? Click on this link, https://gadventures--lmsilt.na79.visual.force.com/apex/lmsilt__eui_lodetails?objectId=a6e14000000WiAyAAK&tabName=catalog&parentObjectId=a6e14000000WiAyAAK&parentObjectName=COURSE:%20Product+Padawan";
+		//	break;
 
-		case 'G Adventures for Good':
-			$speech = "Great! Here's the link! https://gadventures--lmsilt.na79.visual.force.com/apex/lmsilt__eui_lodetails?objectId=a6b14000000HNYtAAO&tabName=completed";
-			break;
+		//case 'G Adventures for Good':
+		//	$speech = "Great! Here's the link! https://gadventures--lmsilt.na79.visual.force.com/apex/lmsilt__eui_lodetails?objectId=a6b14000000HNYtAAO&tabName=completed";
+		//	break;
 
-		case 'Manager Backpack':
-			$speech = "Looking for the G Manager backpack, click on this link, https://gmanagerbackpack.com/";
-			break;		
+		//case 'Manager Backpack':
+		//	$speech = "Looking for the G Manager backpack, click on this link, https://gmanagerbackpack.com/";
+		//	break;		
 
 		default:
 			$speech = "Sorry, I didnt get that. Are you looking for a specific event like Premiere, Garage Band, G Manager, Storytelling, or an Offsite?";
