@@ -119,7 +119,7 @@ if($method == 'POST'){
 			break;		
 
 		default:
-			$speech = "Sorry, I didnt get that. Are you looking for a specific event like Premiere, Garage Band, G Manager, Storytelling, or an Offsite?";
+			$speech = "Sorry, I didnt get that. Are you looking to register for a program? Need consultation? Something new built? Or have an issue with G Learning?";
 			break;
 	}
 
